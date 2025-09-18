@@ -38,7 +38,7 @@ void Game::Draw(){
     grid.Draw(); // Draw the grid
     currentBlock.Draw(11, 11); // Draw the current block
     switch(nextBlock.id){
-        case1:
+        case 1:
             nextBlock.Draw(270, 270); // Draw the next block
             break;
         case 2:
