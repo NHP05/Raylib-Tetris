@@ -2,7 +2,7 @@
 
 A classic Tetris game implementation using C++ and Raylib graphics library.
 
-![Tetris Preview](preview.jpg)
+![Tetris Preview](../preview.jpg)
 
 ## 📋 Table of Contents
 - [Features](#features)
